@@ -1,0 +1,35 @@
+body{
+    background-color: #dce4f3;;
+}
+
+.section-center{
+width: 50%;
+margin: auto;
+padding-top: 25px;
+}
+
+h3{
+    text-transform: capitalize;
+    font-size: 2rem;
+    color: #415d92;
+    word-spacing: 5px;
+}
+label{
+    text-transform: capitalize;
+    color:  #4b679b;
+    letter-spacing: 1.5px;
+}
+
+#amount{
+    width: 35px;
+}
+
+button{
+    background-color: rgb(47, 117, 214);
+    padding: 3px;
+    border-radius: 2px;
+}
+
+.lorem-text{
+    color: #5b79b1;
+}
